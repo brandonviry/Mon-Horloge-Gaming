@@ -23,8 +23,8 @@ Avant de commencer, vous devez avoir installé sur votre machine les outils suiv
 ### 1. Clonez ou téléchargez le projet
 
 ```bash
-git clone https://github.com/ton-utilisateur/mon-horloge-electron.git
-cd mon-horloge-electron
+git clone https://github.com/brandonviry/Mon-Horloge-Gaming
+cd Mon-Horloge-Gaming
 ```
 
 ### 2. Installez les dépendances
