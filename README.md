@@ -71,6 +71,12 @@ Après la génération du build, vous trouverez le fichier d'installation dans l
 
 - **L'application ne se lance pas** : Vérifiez que vous avez bien toutes les dépendances nécessaires. Exécutez `npm install` pour réinstaller les packages.
 
+## Prévisualisation
+
+l'application est prévisualisable sur le site suivant :
+https://spectacular-gingersnap-d7929f.netlify.app/
+
+
 ## Licence
 
 Ce projet est sous AUCUNE licence.
